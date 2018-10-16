@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorCheck">#ffffff</color>
+    <color name="colorUncheck">#B2D7D2</color>
+    <color name="basilGreen">#356859</color>
+    <color name="green_basil">#B9E4C9</color>
+    <color name="basilOrange">#FD5523</color>
+    <color name="replyblue">#344955</color>
+    <color name="reply">#232F34</color>
+    <color name="replyorange">#F9AA33</color>
+    <color name="teal">#00695C</color>
+    <color name="darkTeal">#004D40</color>
+    <color name="shrinePinkSecondary">#FEEAE6</color>
+    <color name="DarkGray">#212121</color>
+    <color name="Grey">#424242</color>
+
+</resources>
